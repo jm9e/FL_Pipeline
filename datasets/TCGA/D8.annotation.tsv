@@ -1,0 +1,78 @@
+	diagnosis_age	menopause_status	hist_subt	mol_subt	oncotree	stage	OS	OS_status	ER	HER2	PR	cohort	age	race	is_hispanic_or_latino	sex	t_stage	m_stage	n_stage
+TCGA-D8-A27F-01	40.0	pre	Infiltrating Ductal Carcinoma	Basal	IDC	2	16.03	LIVING	Negative	Negative	Negative	D8	40	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A27N-01	36.0	pre	Infiltrating Ductal Carcinoma	LumB	IDC	3	17.05	LIVING	Positive	Positive	Positive	D8	36	WHITE	Not Hispanic Or Latino	Female	T2	M0	N2A
+TCGA-D8-A13Z-01	51.0	post	Infiltrating Ductal Carcinoma	Her2	IDC		20.86	LIVING	Negative	Negative	Negative	D8	51	WHITE	Not Hispanic Or Latino	Female	T2	M0	N2A
+TCGA-D8-A1X9-01	66.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	23.88	LIVING	Positive	Indeterminate	Positive	D8	66	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-D8-A27T-01	53.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	3	13.07	LIVING	Positive	Negative	Positive	D8	53	WHITE	Not Hispanic Or Latino	Female	T2	M0	N3A
+TCGA-D8-A27P-01	64.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	1.61	LIVING	Positive	Negative	Positive	D8	64	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-D8-A1X8-01	62.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	3	25.72	LIVING	Positive	Negative	Indeterminate	D8	62	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N2A
+TCGA-D8-A1XS-01	48.0		Other		BRCNOS	3	16.29	LIVING	Positive	Positive	Positive	D8	48	WHITE	Not Hispanic Or Latino	Male	T2	M0	N3A
+TCGA-D8-A1JH-01	56.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	13.99	LIVING	Positive	Negative	Positive	D8	56	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-D8-A27I-01	58.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	3	14.42	LIVING	Positive	Negative	Positive	D8	58	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N2A
+TCGA-D8-A3Z6-01	56.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	3	18.5	LIVING	Positive	Negative	Positive	D8	56	WHITE	Not Hispanic Or Latino	Female	T3	M0	N3A
+TCGA-D8-A27M-01	59.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	1	13.47	LIVING	Negative	Negative	Negative	D8	59	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-D8-A141-01	40.0		Infiltrating Ductal Carcinoma	LumA	IDC		20.57	LIVING	Positive	Negative	Positive	D8	40	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N1
+TCGA-D8-A27H-01	72.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	13.04	LIVING	Negative	Negative	Negative	D8	72	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A1JG-01	62.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	2	52.96	LIVING	Negative	Equivocal	Negative	D8	62	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A1XA-01	64.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	27.56	LIVING	Positive	Equivocal	Positive	D8	64	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-D8-A27E-01	66.0	post	Other	LumA	BRCNOS	1	17.41	LIVING	Positive	Negative	Positive	D8	66	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-D8-A1J9-01	48.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	1	17.48	LIVING	Positive	Positive	Negative	D8	48	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-D8-A1Y3-01	61.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	3	14.13	LIVING	Positive	Indeterminate	Positive	D8	61	WHITE	Not Hispanic Or Latino	Female	T2	MX	N2A
+TCGA-D8-A13Y-01	52.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	1	56.77	LIVING	Positive	Negative	Positive	D8	52	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-D8-A4Z1-01	68.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	1	21.65	LIVING	Positive	Negative	Positive	D8	68	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-D8-A73X-01	53.0	post	Other	LumA	BRCNOS	2	25.2	LIVING	Positive	Negative	Positive	D8	53	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A1XG-01	86.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	3	14.72	LIVING	Positive	Negative	Negative	D8	86	WHITE	Not Hispanic Or Latino	Female	T4B	M0	N1A
+TCGA-D8-A1JK-01	90.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	20.11	LIVING	Negative	Negative	Positive	D8	90	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A1XJ-01	76.0	post	Other	Her2	BRCNOS	3	21.81	LIVING	Positive	Positive	Positive	D8	76	WHITE	Not Hispanic Or Latino	Female	T3	MX	N1A
+TCGA-D8-A27V-01	62.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	2	12.52	LIVING	Positive	Negative	Positive	D8	62	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A27K-01	47.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	48.0	LIVING	Positive	Negative	Positive	D8	47	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-D8-A1XQ-01	69.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	16.39	LIVING	Negative	Negative	Negative	D8	69	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A73W-01	79.0	post	Mucinous Carcinoma	LumA	IMMC	3	12.65	DECEASED	Positive	Negative	Negative	D8	79	WHITE	Not Hispanic Or Latino	Female	T3	MX	N1A
+TCGA-D8-A1Y0-01	65.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	3	15.51	LIVING	Positive	Negative	Positive	D8	65	WHITE	Not Hispanic Or Latino	Female	T1C	MX	N2A
+TCGA-D8-A1JT-01	70.0	post	Other	LumB	BRCNOS	2	13.3	LIVING	Positive	Equivocal	Positive	D8	70	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A1JJ-01	54.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	20.07	LIVING	Positive	Negative	Positive	D8	54	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A1JE-01	62.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	18.89	LIVING	Positive	Negative	Positive	D8	62	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N1A
+TCGA-D8-A1Y2-01	71.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	14.22	LIVING	Positive	Indeterminate	Positive	D8	71	WHITE	Not Hispanic Or Latino	Female	T2	MX	N0
+TCGA-D8-A1JA-01	60.0	post	Infiltrating Ductal Carcinoma	Her2	IDC		16.49	LIVING	Negative	Positive	Negative	D8	60	WHITE	Not Hispanic Or Latino	Female	T4B	M0	NX
+TCGA-D8-A1XO-01	56.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	2	55.26	LIVING	Positive	Negative	Positive	D8	56	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-D8-A1Y1-01	80.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	3	9.92	DECEASED	Positive	Negative	Positive	D8	80	WHITE	Not Hispanic Or Latino	Female	T3	MX	N1A
+TCGA-D8-A1X6-01	80.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	3	17.77	LIVING	Positive	Negative	Positive	D8	80	WHITE	Not Hispanic Or Latino	Female	T3	MX	N2A
+TCGA-D8-A1XZ-01	81.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	3	15.31	LIVING	Positive	Negative	Negative	D8	81	WHITE	Not Hispanic Or Latino	Female	T1C	MX	N2A
+TCGA-D8-A1JI-01	54.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	18.96	LIVING	Positive	Negative	Positive	D8	54	WHITE	Not Hispanic Or Latino	Female	T1C	MX	N1A
+TCGA-D8-A3Z5-01	54.0	post	Infiltrating Lobular Carcinoma		ILC	3	33.34	LIVING	Positive	Negative	Positive	D8	54	WHITE	Not Hispanic Or Latino	Female	T2	M0	N3A
+TCGA-D8-A1XL-01	34.0	pre	Infiltrating Ductal Carcinoma	LumB	IDC	2	19.91	LIVING	Positive	Equivocal	Positive	D8	34	WHITE	Not Hispanic Or Latino	Female	T2	MX	N1A
+TCGA-D8-A1JB-01	54.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	55.45	LIVING	Positive	Equivocal	Positive	D8	54	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-D8-A1XY-01	74.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	16.52	LIVING	Positive	Positive	Positive	D8	74	WHITE	Not Hispanic Or Latino	Female	T2	MX	N0
+TCGA-D8-A1XW-01	53.0	post	Infiltrating Ductal Carcinoma	Normal	IDC	2	43.0	LIVING	Negative	Negative	Positive	D8	53	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A1XK-01	55.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	14.49	LIVING	Negative	Negative	Negative	D8	55	WHITE	Not Hispanic Or Latino	Female	T2	MX	N1A
+TCGA-D8-A1XF-01	45.0	pre	Infiltrating Ductal Carcinoma	LumB	IDC	2	15.21	LIVING	Positive	Negative	Positive	D8	45	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A27R-01	41.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	3	10.09	LIVING	Positive	Equivocal	Positive	D8	41	WHITE	Not Hispanic Or Latino	Female	T2	M0	N3A
+TCGA-D8-A1XT-01	61.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	2	16.62	LIVING	Negative	Positive	Negative	D8	61	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N1A
+TCGA-D8-A1XB-01	62.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	18.13	LIVING	Positive	Negative	Positive	D8	62	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-D8-A1JC-01	59.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	3	15.77	LIVING	Positive	Negative	Positive	D8	59	WHITE	Not Hispanic Or Latino	Female	T2	M0	N2A
+TCGA-D8-A142-01	74.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	13.96	LIVING	Negative	Equivocal	Negative	D8	74	WHITE	Not Hispanic Or Latino	Female	T3	M0	N0
+TCGA-D8-A147-01	45.0		Infiltrating Ductal Carcinoma	Basal	IDC		19.19	LIVING	Negative	Negative	Negative	D8	45	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A1JU-01	51.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	14.68	LIVING	Positive	Negative	Positive	D8	51	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-D8-A1JL-01	72.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	20.07	LIVING	Negative	Negative	Negative	D8	72	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A27G-01	75.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	2	13.44	LIVING	Positive	Equivocal	Positive	D8	75	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A1XR-01	56.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	15.83	LIVING	Positive	Negative	Positive	D8	56	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-D8-A73U-01	88.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	2	16.16	LIVING	Positive	Negative	Positive	D8	88	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A1JM-01	59.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	19.38	LIVING	Positive	Negative	Negative	D8	59	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-D8-A1XC-01	85.0	post	Mucinous Carcinoma	LumA	IMMC	3	12.39	DECEASED	Positive	Negative	Positive	D8	85	WHITE	Not Hispanic Or Latino	Female	T4B	M0	N1A
+TCGA-D8-A1X7-01	40.0	pre	Other	LumB	BRCNOS	2	16.72	LIVING	Positive	Negative	Positive	D8	40	WHITE	Not Hispanic Or Latino	Female	T2	MX	N0
+TCGA-D8-A1JS-01	77.0	post	Other	LumA	BRCNOS	1	12.19	LIVING	Positive	Negative	Positive	D8	77	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-D8-A27L-01	49.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	3	16.39	LIVING	Positive	Negative	Positive	D8	49	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N2A
+TCGA-D8-A1XV-01	84.0	post	Mucinous Carcinoma	LumA	IMMC	2	15.14	LIVING	Positive	Equivocal	Positive	D8	84	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A1JD-01	41.0	pre	Infiltrating Ductal Carcinoma	LumB	IDC	2	18.13	LIVING	Positive	Negative	Positive	D8	41	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-D8-A1XU-01	56.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	12.98	LIVING	Positive	Negative	Positive	D8	56	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-D8-A1JN-01	80.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	3	20.37	LIVING	Positive	Indeterminate	Positive	D8	80	WHITE	Not Hispanic Or Latino	Female	T3	MX	N3A
+TCGA-D8-A140-01	62.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	13.24	LIVING	Positive	Positive	Positive	D8	62	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-D8-A145-01	80.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	13.47	LIVING	Positive	Equivocal	Positive	D8	80	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N1A
+TCGA-D8-A1JP-01	73.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	20.99	LIVING	Positive	Negative	Positive	D8	73	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-D8-A1XD-01	36.0	pre	Infiltrating Ductal Carcinoma		IDC	3	17.15	LIVING	Positive	Negative	Positive	D8	36	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N2A
+TCGA-D8-A1J8-01	77.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	14.16	LIVING	Positive	Negative	Positive	D8	77	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-D8-A143-01	51.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	14.16	LIVING	Negative	Negative	Negative	D8	51	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-D8-A1JF-01	79.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	3	12.02	LIVING	Negative	Negative	Negative	D8	79	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N2A
+TCGA-D8-A1X5-01	81.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	3	18.56	LIVING	Positive	Positive	Positive	D8	81	WHITE	Not Hispanic Or Latino	Female	T2	MX	N3A
+TCGA-D8-A27W-01	55.0	post	Mucinous Carcinoma	LumB	IMMC	3	12.25	LIVING	Positive	Equivocal	Positive	D8	55	WHITE	Not Hispanic Or Latino	Female	T4B	M0	N0
+TCGA-D8-A1XM-01	57.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	17.67	LIVING	Positive	Negative	Positive	D8	57	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0

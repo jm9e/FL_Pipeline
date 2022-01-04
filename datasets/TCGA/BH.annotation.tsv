@@ -1,0 +1,150 @@
+	diagnosis_age	menopause_status	hist_subt	mol_subt	oncotree	stage	OS	OS_status	ER	HER2	PR	cohort	age	race	is_hispanic_or_latino	sex	t_stage	m_stage	n_stage
+TCGA-BH-A1EN-01	78.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	2	69.88	DECEASED	Negative	Positive	Negative	BH	78	WHITE	Not Hispanic Or Latino	Female	T2	M0	NX
+TCGA-BH-A0DK-01	49.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	2	13.9	LIVING	Positive	Negative	Positive	BH	49	WHITE		Female	T2	M0	N0 (I-)
+TCGA-BH-A0DX-01	62.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	70.83	LIVING	Positive	Negative	Positive	BH	62	WHITE	Not Hispanic Or Latino	Female	T1B	M0	N0
+TCGA-BH-A0W7-01	49.0		Infiltrating Ductal Carcinoma	LumA	IDC	1	44.78	LIVING	Positive	Negative	Positive	BH	49	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0 (I-)
+TCGA-BH-A0AY-01	62.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	25.53	LIVING	Positive	Negative	Positive	BH	62	WHITE		Female	T2	M0	N0 (I-)
+TCGA-BH-A0EE-01	68.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	2	30.98	LIVING	Negative	Positive	Negative	BH	68	WHITE		Female	T3	M0	N0 (I-)
+TCGA-BH-A1FM-01	44.0		Infiltrating Ductal Carcinoma	LumB	IDC	3	45.6	DECEASED	Positive		Negative	BH	44	WHITE	Not Hispanic Or Latino	Female	T2	M0	N2
+TCGA-BH-A208-01	48.0		Infiltrating Ductal Carcinoma	Normal	IDC	2	57.79	DECEASED				BH	48	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1B
+TCGA-BH-A203-01	78.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	2	38.57	DECEASED				BH	78	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1B
+TCGA-BH-A1FN-01	34.0		Infiltrating Ductal Carcinoma	LumB	IDC	2	72.01	DECEASED	Positive		Positive	BH	34	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-BH-A0B0-01	56.0	peri	Infiltrating Ductal Carcinoma	LumA	IDC	1	81.37	LIVING	Positive	Negative	Positive	BH	56	BLACK OR AFRICAN AMERICAN		Female	T1C	M0	N0
+TCGA-BH-A0BO-01	54.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	1	72.17	LIVING	Positive	Negative	Positive	BH	54	WHITE	Not Hispanic Or Latino	Female	T1B	M0	N0
+TCGA-BH-A1FJ-01	66.0		Infiltrating Ductal Carcinoma	LumB	IDC	3	63.3	DECEASED	Negative		Positive	BH	66	WHITE	Not Hispanic Or Latino	Female	T3	M0	N1B
+TCGA-BH-A0BR-01	59.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	76.54	LIVING	Positive	Negative	Positive	BH	59	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A0RX-01	59.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	5.58	LIVING	Negative	Negative	Negative	BH	59	WHITE		Female	T2	M0	N0 (I-)
+TCGA-BH-A0HX-01	54.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	27.23	LIVING	Positive	Negative	Positive	BH	54	WHITE		Female	T2	M0	N1A
+TCGA-BH-A0BC-01	60.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	3	32.0	LIVING	Positive	Negative	Positive	BH	60	WHITE		Female	T2	M0	N3
+TCGA-BH-A0DO-01	78.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	54.01	LIVING	Positive	Negative	Positive	BH	78	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A0HN-01	67.0	post	Infiltrating Ductal Carcinoma		IDC	1	16.95	LIVING	Positive	Equivocal	Positive	BH	67	WHITE		Female	T1C	M0	N0 (I-)
+TCGA-BH-A0AW-01	56.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	2	20.43	LIVING	Positive	Positive	Negative	BH	56	WHITE		Female	T1C	M0	N1A
+TCGA-BH-A0BW-01	71.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	1	77.89	LIVING	Negative		Negative	BH	71	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A8G0-01	54.0	peri	Infiltrating Lobular Carcinoma	LumA	ILC	2	21.75	LIVING	Positive	Negative	Positive	BH	54	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-BH-A0GZ-01	62.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	10.78	LIVING	Positive	Equivocal	Positive	BH	62	WHITE		Female	T1C	M0	N1A
+TCGA-BH-A1FB-01	60.0	post	Infiltrating Ductal Carcinoma		IDC	2	120.53	DECEASED	Positive	Negative	Positive	BH	60	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1B
+TCGA-BH-A0W5-01	77.0		Infiltrating Ductal Carcinoma	LumA	IDC	2	42.31	LIVING	Positive	Equivocal	Positive	BH	77	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N1A
+TCGA-BH-A0H7-01	65.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	3	23.06	LIVING	Positive	Negative	Positive	BH	65	WHITE		Female	T1C	M0	N2A
+TCGA-BH-A0DE-01	62.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	77.92	LIVING	Positive	Negative	Positive	BH	62	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-BH-A201-01	64.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	28.12	LIVING	Positive	Negative	Positive	BH	64	WHITE	Not Hispanic Or Latino	Female	T1	M0	N0
+TCGA-BH-A0H0-01	69.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	1	15.14	LIVING	Positive	Negative	Positive	BH	69	WHITE		Female	T1C	M0	N0 (I-)
+TCGA-BH-A0BM-01	54.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	61.63	LIVING	Positive	Negative	Negative	BH	54	WHITE		Female	T2	M0	N1A
+TCGA-BH-A2L8-01	45.0	pre	Infiltrating Lobular Carcinoma	LumA	ILC	2	20.11	LIVING	Positive	Negative	Positive	BH	45	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0 (I-)
+TCGA-BH-A0BS-01	55.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	3	85.81	LIVING	Positive		Positive	BH	55	WHITE	Not Hispanic Or Latino	Female	T3	M0	N1C
+TCGA-BH-A0BT-01	56.0		Infiltrating Ductal Carcinoma	LumA	IDC	2	77.69	LIVING	Positive	Negative	Positive	BH	56	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N1MI
+TCGA-BH-A0H3-01	46.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	1	63.34	LIVING	Positive		Positive	BH	46	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A0DP-01	60.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	2	15.64	LIVING	Positive	Negative	Positive	BH	60	WHITE		Female	T3	M0	N0 (I-)
+TCGA-BH-A0HQ-01	56.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	36.83	LIVING	Positive	Negative	Positive	BH	56	WHITE		Female	T2	M0	N0 (I+)
+TCGA-BH-A8FZ-01	58.0	post	Infiltrating Lobular Carcinoma	Normal	ILC	1	18.86	LIVING	Positive	Equivocal	Positive	BH	58	WHITE	Not Hispanic Or Latino	Female	T1B	M0	N0
+TCGA-BH-A0DS-01	71.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	3	2.56	LIVING	Positive	Negative	Positive	BH	71	WHITE		Female	T2	M0	N2A
+TCGA-BH-A0C3-01	47.0	pre	Mixed Histology (NOS)	LumB	BRCNOS	1	88.99	LIVING	Positive	Negative	Negative	BH	47	WHITE		Female	T1C	M0	N0
+TCGA-BH-A18S-01	79.0	post	Mucinous Carcinoma	LumA	IMMC	1	66.0	DECEASED	Positive	Negative	Positive	BH	79	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A0BD-01	47.0	pre	Infiltrating Ductal Carcinoma	LumB	IDC	2	18.2	LIVING	Positive	Negative	Positive	BH	47	WHITE		Female	T1C	M0	N1A
+TCGA-BH-A0DQ-01	42.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	2	3.22	LIVING	Positive	Negative	Positive	BH	42	WHITE		Female	T2	M0	N1
+TCGA-BH-A1FE-01	31.0		Infiltrating Ductal Carcinoma	LumA	IDC	2	74.67	DECEASED	Positive		Positive	BH	31	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-BH-A0B1-01	66.0	post	Infiltrating Ductal Carcinoma		IDC	2	37.71	LIVING	Positive	Negative	Positive	BH	66	WHITE		Female	T2	M0	N1A
+TCGA-BH-A42T-01	75.0	post	Infiltrating Lobular Carcinoma		ILC	2	10.51	DECEASED	Positive	Positive	Positive	BH	75	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	M0	N0 (I+)
+TCGA-BH-A209-01	77.0	post	Medullary Carcinoma	LumB	IDC	1	130.06	DECEASED	Positive		Positive	BH	77	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A0BZ-01	59.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	3	74.08	LIVING	Positive	Negative	Positive	BH	59	WHITE	Not Hispanic Or Latino	Female	T3	M0	N1A
+TCGA-BH-A18P-01	60.0		Infiltrating Ductal Carcinoma	Her2	IDC	1	30.26	DECEASED	Positive	Positive	Negative	BH	60	WHITE		Female	T1	M0	N0
+TCGA-BH-A0HI-01	78.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	20.37	LIVING	Positive	Negative	Positive	BH	78	WHITE		Female	T1C	M0	N0 (I-)
+TCGA-BH-A0AV-01	52.0		Infiltrating Ductal Carcinoma	Basal	IDC	1	59.79	LIVING	Negative		Negative	BH	52	BLACK OR AFRICAN AMERICAN		Female	T1C	M0	N0
+TCGA-BH-AB28-01	53.0		Infiltrating Lobular Carcinoma	LumA	ILC	3	9.43	LIVING	Positive	Negative	Positive	BH	53	WHITE	Not Hispanic Or Latino	Female	T3	M0	N1A
+TCGA-BH-A0DG-01	30.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	2	67.05	LIVING	Positive	Negative	Negative	BH	30	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-BH-A1EX-01	67.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	49.54	DECEASED	Positive	Positive	Positive	BH	67	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1B
+TCGA-BH-A0DD-01	58.0		Infiltrating Ductal Carcinoma		IDC	2	81.67	LIVING	Positive	Positive	Positive	BH	58	WHITE		Male	T2	M0	N1A
+TCGA-BH-A0HF-01	77.0	post	Infiltrating Ductal Carcinoma		IDC	1	23.88	LIVING	Positive	Negative	Positive	BH	77	WHITE		Female	T1C	M0	N0 (I-)
+TCGA-BH-A0H6-01	82.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	24.54	LIVING	Positive	Negative	Positive	BH	82	WHITE		Female	T1B	M0	NX
+TCGA-BH-A1ET-01	55.0		Infiltrating Ductal Carcinoma	LumA	IDC	1	82.79	DECEASED	Positive	Negative	Positive	BH	55	WHITE	Not Hispanic Or Latino	Female	T1	M0	N0
+TCGA-BH-A0HK-01	81.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	5.85	LIVING	Positive	Negative	Negative	BH	81	WHITE		Female	T2	M0	N1
+TCGA-BH-A0DH-01	63.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	37.98	LIVING	Positive	Negative	Positive	BH	63	WHITE		Female	T2	M0	N1A
+TCGA-BH-A1FL-01	69.0		Infiltrating Ductal Carcinoma	LumA	IDC	2	54.96	DECEASED	Positive		Positive	BH	69	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1B
+TCGA-BH-A0E6-01	69.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	1	9.63	LIVING	Negative	Equivocal	Negative	BH	69	WHITE		Female	T1C	M0	N0 (I-)
+TCGA-BH-A0HB-01	55.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	26.48	LIVING	Positive	Equivocal	Positive	BH	55	WHITE		Female	T1C	M0	N0 (I-)
+TCGA-BH-A18I-01	53.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	35.91	LIVING	Positive	Positive	Positive	BH	53	WHITE	Not Hispanic Or Latino	Female	T1C	CM0 (I+)	N1A
+TCGA-BH-A204-01	80.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	83.25	DECEASED				BH	80	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1B
+TCGA-BH-A18R-01	50.0		Infiltrating Ductal Carcinoma	Her2	IDC	2	37.52	DECEASED	Indeterminate	Positive	Negative	BH	50	WHITE	Not Hispanic Or Latino	Female	T2B	M0	N1
+TCGA-BH-A18Q-01	56.0		Infiltrating Ductal Carcinoma	Basal	IDC	2	55.58	DECEASED	Negative	Positive	Negative	BH	56	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1B
+TCGA-BH-A18M-01	39.0		Infiltrating Ductal Carcinoma	LumA	IDC	3	72.5	DECEASED	Positive	Positive	Positive	BH	39	WHITE	Not Hispanic Or Latino	Female	T3	M0	N1
+TCGA-BH-A18J-01	56.0		Infiltrating Ductal Carcinoma	LumA	IDC	4	20.11	DECEASED	Positive	Negative	Positive	BH	56	WHITE	Not Hispanic Or Latino	Female	T4B	M1	N2
+TCGA-BH-A0C7-01	48.0	peri	Infiltrating Ductal Carcinoma	LumB	IDC	2	90.9	LIVING	Positive		Negative	BH	48	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1MI
+TCGA-BH-A0DZ-01	43.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	2	16.26	LIVING	Positive	Positive	Positive	BH	43	WHITE		Female	T2	M0	N1A
+TCGA-BH-A1EY-01	79.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	17.67	DECEASED	Positive	Negative	Positive	BH	79	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-BH-A0HL-01	56.0	post	Infiltrating Ductal Carcinoma		IDC	2	2.37	LIVING	Positive	Equivocal	Positive	BH	56	WHITE		Female	T2	M0	N1A
+TCGA-BH-A0B8-01	64.0	post	Infiltrating Ductal Carcinoma		IDC	1	51.54	LIVING	Positive	Equivocal	Positive	BH	64	WHITE		Female	T1B	M0	N0 (I-)
+TCGA-BH-A0BF-01	56.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	43.5	DECEASED	Positive	Negative	Positive	BH	56	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1MI
+TCGA-BH-A1EV-01	45.0		Infiltrating Ductal Carcinoma	Her2	IDC	3	11.99	DECEASED	Positive	Positive	Positive	BH	45	WHITE	Not Hispanic Or Latino	Female	T3	M0	N1B
+TCGA-BH-A1FH-01	47.0		Infiltrating Ductal Carcinoma	LumA	IDC	4	33.97	DECEASED	Positive		Negative	BH	47	WHITE	Not Hispanic Or Latino	Female	T2	M1	N1B
+TCGA-BH-A6R9-01	61.0	post	Metaplastic Carcinoma	Normal	MBC	2	5.26	LIVING	Negative	Negative	Positive	BH	61	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-BH-A0HA-01	31.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	1	52.92	LIVING	Positive		Positive	BH	31	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0 (I-)
+TCGA-BH-A1EO-01	68.0	post	Mixed Histology (NOS)	LumA	BRCNOS	2	91.92	DECEASED	Positive	Negative	Positive	BH	68	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N1
+TCGA-BH-A0BQ-01	39.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	1	74.08	LIVING	Positive	Positive	Positive	BH	39	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A18K-01	46.0		Infiltrating Ductal Carcinoma	LumA	IDC	1	90.77	DECEASED	Positive	Negative	Positive	BH	46	WHITE	Not Hispanic Or Latino	Female	T1	M0	N0
+TCGA-BH-A0E7-01	79.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	44.78	LIVING	Positive	Negative	Positive	BH	79	WHITE		Female	T2	M0	N1A
+TCGA-BH-A18H-01	63.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	21.42	LIVING	Positive	Positive	Positive	BH	63	WHITE	Not Hispanic Or Latino	Female	T1B	M0	N0
+TCGA-BH-A6R8-01	46.0		Infiltrating Ductal Carcinoma	LumA	IDC	2	9.63	LIVING	Positive		Positive	BH	46	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-BH-A18T-01	70.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	7.36	DECEASED	Negative	Positive	Negative	BH	70	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-BH-A5J0-01	63.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	23.49	LIVING	Positive	Negative	Positive	BH	63	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A18G-01	81.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	1	4.89	LIVING	Negative	Negative	Negative	BH	81	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A1FD-01	68.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	1	33.15	DECEASED	Positive	Negative	Positive	BH	68	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A0WA-01	82.0		Breast Invasive Carcinoma	Basal	BRCA	1	23.03	LIVING	Negative	Negative	Negative	BH	82	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0 (I-)
+TCGA-BH-A0HU-01	52.0	peri	Infiltrating Ductal Carcinoma	LumB	IDC	1	12.88	LIVING	Positive	Negative	Positive	BH	52	WHITE		Female	T1C	M0	N0 (I-)
+TCGA-BH-A0DV-01	54.0	peri	Infiltrating Ductal Carcinoma	LumA	IDC	3	67.81	LIVING	Positive	Negative	Positive	BH	54	WHITE		Female	T2	M0	N2A
+TCGA-BH-A8FY-01	87.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	1	9.69	DECEASED	Positive	Negative	Positive	BH	87	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0 (I+)
+TCGA-BH-A0W3-01	58.0		Infiltrating Ductal Carcinoma	LumB	IDC	2	23.92	LIVING	Positive	Equivocal	Positive	BH	58	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N1A
+TCGA-BH-A0HO-01	48.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	2	2.5	LIVING	Positive	Negative	Positive	BH	48	WHITE		Female	T1C	M0	N1A
+TCGA-BH-A42U-01	80.0	post	Infiltrating Lobular Carcinoma	Normal	ILC	2	110.51	LIVING	Negative	Negative	Negative	BH	80	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-BH-A0E0-01	38.0	pre	Infiltrating Ductal Carcinoma	Basal	IDC	3	4.4	LIVING	Negative	Negative	Negative	BH	38	WHITE		Female	T3	M0	N3A
+TCGA-BH-A0BJ-01	41.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	2	21.68	LIVING	Positive	Negative	Positive	BH	41	WHITE		Female	T2	M0	N1A
+TCGA-BH-A1EU-01	83.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	42.25	DECEASED	Positive	Negative	Positive	BH	83	WHITE	Not Hispanic Or Latino	Female	T1	M0	N0
+TCGA-BH-A1FU-01	44.0		Infiltrating Ductal Carcinoma	Normal	IDC	1	55.45	DECEASED	Negative		Negative	BH	44	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A0HW-01	62.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	1	51.28	LIVING	Positive	Equivocal	Negative	BH	62	ASIAN		Female	T1C	M0	N0 (I-)
+TCGA-BH-A0BP-01	76.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	75.43	DECEASED	Positive	Negative	Positive	BH	76	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A1F2-01	53.0		Infiltrating Ductal Carcinoma	LumB	IDC	3	31.5	DECEASED	Positive	Positive	Positive	BH	53	WHITE	Not Hispanic Or Latino	Female	T4B	M0	N1B
+TCGA-BH-A1FG-01	88.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	122.73	DECEASED	Positive	Negative	Positive	BH	88	WHITE	Not Hispanic Or Latino	Female	T1C	M0	NX
+TCGA-BH-A1F5-01	62.0		Infiltrating Ductal Carcinoma		IDC	2	89.09	DECEASED	Positive	Negative	Positive	BH	62	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N1A
+TCGA-BH-A0B3-01	53.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	39.52	LIVING	Negative	Negative	Negative	BH	53	WHITE		Female	T2	M0	N1A
+TCGA-BH-A0GY-01	67.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	30.32	LIVING	Positive	Negative	Positive	BH	67	WHITE		Female	T2	M0	N1
+TCGA-BH-A1EW-01	38.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	2	55.65	DECEASED	Negative	Negative	Negative	BH	38	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1B
+TCGA-BH-A0B9-01	44.0	pre	Infiltrating Ductal Carcinoma	Basal	IDC	1	51.64	LIVING	Negative	Negative	Negative	BH	44	WHITE		Female	T1C	M0	N0 (I-)
+TCGA-BH-A0DL-01	64.0	post	Other	Basal	BRCNOS	2	78.22	LIVING	Positive	Negative	Negative	BH	64	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-BH-A0AZ-01	47.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	3	63.04	LIVING	Positive	Negative	Positive	BH	47	WHITE	Not Hispanic Or Latino	Female	T3	CM0 (I+)	N1A
+TCGA-BH-A1F8-01	90.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	3	25.07	DECEASED	Positive	Positive	Positive	BH	90	WHITE	Not Hispanic Or Latino	Female	T4B	M0	N2
+TCGA-BH-A0HP-01	65.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	3	13.6	LIVING	Positive	Negative	Negative	BH	65	WHITE		Female	T3	M0	N2A
+TCGA-BH-A0BL-01	35.0	pre	Infiltrating Ductal Carcinoma	Basal	IDC	1	74.84	LIVING	Negative	Negative	Negative	BH	35	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A28Q-01	46.0	pre	Infiltrating Lobular Carcinoma	LumA	ILC	2	36.76	LIVING	Positive	Negative	Positive	BH	46	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-BH-A1F0-01	80.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	25.79	DECEASED	Negative	Negative	Indeterminate	BH	80	WHITE	Not Hispanic Or Latino	Female	T1A	M0	N1C
+TCGA-BH-A0H9-01	69.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	40.97	LIVING	Positive	Equivocal	Positive	BH	69	WHITE		Female	T2	M0	N0 (I-)
+TCGA-BH-A0B4-01	65.0		Infiltrating Ductal Carcinoma		IDC	3	39.13	LIVING	Positive	Equivocal	Positive	BH	65	WHITE		Male	T2	M0	N2
+TCGA-BH-A0H5-01	45.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	53.22	LIVING	Positive		Positive	BH	45	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0 (I-)
+TCGA-BH-A0C0-01	62.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	41.72	LIVING	Positive	Equivocal	Positive	BH	62	WHITE		Female	T1C	M0	N1A
+TCGA-BH-A18F-01	50.0	peri	Infiltrating Ductal Carcinoma	LumA	IDC	2	32.88	LIVING	Positive	Negative	Positive	BH	50	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-BH-A0BA-01	51.0	pre	Mixed Histology (NOS)	LumA	BRCNOS	3	37.19	LIVING	Positive	Negative	Positive	BH	51	WHITE		Female	T3	M0	N3A
+TCGA-BH-A18L-01	50.0		Infiltrating Ductal Carcinoma	LumB	IDC	3	26.64	DECEASED	Positive	Negative	Positive	BH	50	WHITE	Not Hispanic Or Latino	Female	T3	M0	N1MI
+TCGA-BH-A1FC-01	78.0	post	Medullary Carcinoma	Basal	IDC	2	114.06	DECEASED	Negative	Negative	Negative	BH	78	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T1C	M0	N1B
+TCGA-BH-A0DI-01	63.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	29.96	LIVING	Positive	Negative	Positive	BH	63	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-BH-A0AU-01	45.0	pre	Infiltrating Ductal Carcinoma	LumB	IDC	2	62.88	LIVING	Positive	Positive	Positive	BH	45	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-BH-A18U-01	72.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	3	51.35	DECEASED	Positive	Positive	Positive	BH	72	WHITE	Not Hispanic Or Latino	Female	T2	M0	N2A
+TCGA-BH-A28O-01	50.0		Infiltrating Lobular Carcinoma		ILC	3	36.79	LIVING	Positive	Negative	Positive	BH	50	WHITE	Not Hispanic Or Latino	Female	T3A	M0	N3
+TCGA-BH-A0BG-01	73.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	1	61.47	LIVING	Negative	Negative	Negative	BH	73	WHITE	Not Hispanic Or Latino	Female	T1	M0	N0
+TCGA-BH-A0EB-01	69.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	24.47	LIVING	Positive	Equivocal	Positive	BH	69	WHITE		Female	T1C	M0	N0 (I-)
+TCGA-BH-A0E9-01	53.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	2	81.77	LIVING	Positive	Negative	Positive	BH	53	WHITE		Female	T2	M0	N1A
+TCGA-BH-A1FR-01	73.0		Other	LumA	BRCNOS	3	53.94	DECEASED	Positive		Positive	BH	73	WHITE	Not Hispanic Or Latino	Female	T4B	M0	N1A
+TCGA-BH-A0C1-01	61.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	3	46.35	DECEASED	Positive	Negative	Positive	BH	61	WHITE	Not Hispanic Or Latino	Female	T3	M0	N2A
+TCGA-BH-A0E1-01	52.0	peri	Infiltrating Ductal Carcinoma	LumA	IDC	2	15.67	LIVING	Positive	Equivocal	Positive	BH	52	WHITE		Female	T2	M0	N1
+TCGA-BH-A0EI-01	51.0	peri	Infiltrating Ductal Carcinoma	LumA	IDC	2	63.27	LIVING	Positive	Negative	Positive	BH	51	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N1A
+TCGA-BH-A18V-01	48.0		Infiltrating Ductal Carcinoma	Basal	IDC	2	51.12	DECEASED	Negative	Negative	Negative	BH	48	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1B
+TCGA-BH-A42V-01	41.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	1	20.86	LIVING	Positive	Negative	Positive	BH	41	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T1C	M0	N1MI
+TCGA-BH-A0W4-01	46.0		Infiltrating Ductal Carcinoma	LumA	IDC	2	24.93	LIVING	Positive	Negative	Positive	BH	46	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0 (I-)
+TCGA-BH-A0EA-01	72.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	32.56	DECEASED	Positive	Negative	Positive	BH	72	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N1A
+TCGA-BH-A0E2-01	49.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	3	14.29	LIVING	Positive	Negative	Positive	BH	49	BLACK OR AFRICAN AMERICAN		Female	T2	M0	N2A
+TCGA-BH-A5IZ-01	51.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	18.63	LIVING	Positive	Negative	Negative	BH	51	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	CM0 (I+)	N1A
+TCGA-BH-A0B7-01	42.0	pre	Infiltrating Ductal Carcinoma	Her2	IDC	2	84.07	LIVING	Positive	Positive	Positive	BH	42	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-BH-A0DT-01	41.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	2	78.94	LIVING	Positive	Negative	Positive	BH	41	WHITE		Female	T1C	M0	N1A
+TCGA-BH-A0BV-01	78.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	49.9	LIVING	Positive	Negative	Positive	BH	78	WHITE		Female	T2	M0	N1A
+TCGA-BH-A202-01	60.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	26.12	LIVING	Positive	Positive	Positive	BH	60	WHITE	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-BH-A0B5-01	40.0	pre	Infiltrating Lobular Carcinoma	LumA	ILC	3	70.17	LIVING	Positive	Negative	Positive	BH	40	WHITE	Not Hispanic Or Latino	Female	T2	M0	N2A
+TCGA-BH-A1F6-01	51.0		Infiltrating Ductal Carcinoma	Basal	IDC		97.4	DECEASED	Negative	Negative	Negative	BH	51	WHITE	Not Hispanic Or Latino	Female	T4D	MX	N2A
+TCGA-BH-A1ES-01	35.0	pre	Infiltrating Ductal Carcinoma		IDC	2	113.73	DECEASED	Positive	Negative	Positive	BH	35	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-BH-A0HY-01	60.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	1	50.76	LIVING	Positive	Positive	Negative	BH	60	WHITE	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-BH-A18N-01	88.0		Infiltrating Ductal Carcinoma	LumA	IDC	2	37.71	DECEASED	Positive	Negative	Positive	BH	88	WHITE	Not Hispanic Or Latino	Female	T2	M0	N1B

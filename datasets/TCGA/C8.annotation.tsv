@@ -1,0 +1,49 @@
+	diagnosis_age	menopause_status	hist_subt	mol_subt	oncotree	stage	OS	OS_status	ER	HER2	PR	cohort	age	race	is_hispanic_or_latino	sex	t_stage	m_stage	n_stage
+TCGA-C8-A273-01	29.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	2	16.85	LIVING	Positive	Negative	Positive	C8	29	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A134-01	52.0	peri	Infiltrating Ductal Carcinoma	Basal	IDC	2	12.58	LIVING	Negative	Equivocal	Negative	C8	52	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-C8-A12Q-01	78.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	3	12.65	DECEASED	Negative	Positive	Negative	C8	78	ASIAN	Not Hispanic Or Latino	Female	T1	M0	N2
+TCGA-C8-A1HL-01	38.0	pre	Other	LumB	BRCNOS	3	10.41	LIVING	Positive	Equivocal	Negative	C8	38	ASIAN	Not Hispanic Or Latino	Female	T3	M0	N1
+TCGA-C8-A12Y-01	44.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	2	48.49	LIVING				C8	44	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A12W-01	49.0	pre	Infiltrating Ductal Carcinoma	LumB	IDC	3	12.65	LIVING	Positive	Negative	Positive	C8	49	ASIAN	Not Hispanic Or Latino	Female	T4	M0	N1
+TCGA-C8-A1HF-01	48.0	pre	Infiltrating Ductal Carcinoma	Her2	IDC	2	10.91	LIVING	Negative	Positive	Positive	C8	48	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-C8-A1HN-01	56.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	12.94	LIVING	Positive	Equivocal	Positive	C8	56	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-C8-A133-01	65.0	post	Other	LumA	BRCNOS	3	0.0	LIVING	Positive		Positive	C8	65	WHITE	Not Hispanic Or Latino	Female	T3	M0	N1
+TCGA-C8-A278-01	61.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	3	9.76	LIVING	Negative	Positive	Negative	C8	61	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N2
+TCGA-C8-A12K-01	80.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	0.0	LIVING				C8	80	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A26Y-01	90.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	2	12.94	LIVING	Negative	Negative	Negative	C8	90	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-C8-A12V-01	55.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	12.65	LIVING	Negative	Negative	Negative	C8	55	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-C8-A1HI-01	40.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	3	11.27	LIVING	Positive	Negative	Positive	C8	40	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N2
+TCGA-C8-A12P-01	55.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	2	11.76	LIVING	Negative	Positive	Negative	C8	55	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A1HK-01	53.0	peri	Infiltrating Ductal Carcinoma	Her2	IDC	2	12.02	LIVING	Negative	Positive	Negative	C8	53	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A12M-01	70.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	11.76	LIVING	Positive	Negative	Negative	C8	70	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0 (I-)
+TCGA-C8-A274-01	63.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	16.69	LIVING	Positive	Negative	Positive	C8	63	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-C8-A1HE-01	59.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	12.32	LIVING	Positive	Equivocal	Positive	C8	59	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-C8-A131-01	82.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	3	13.5	LIVING	Negative	Negative	Negative	C8	82	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N2
+TCGA-C8-A130-01	52.0	peri	Infiltrating Ductal Carcinoma	LumB	IDC	3	12.16	LIVING	Positive	Equivocal	Positive	C8	52	ASIAN	Not Hispanic Or Latino	Female	T3	M0	N2
+TCGA-C8-A8HR-01	49.0	peri	Infiltrating Lobular Carcinoma	Normal	ILC	3	13.4	LIVING				C8	49	ASIAN	Not Hispanic Or Latino	Female	T3	M0	N2
+TCGA-C8-A27B-01	48.0	peri	Infiltrating Ductal Carcinoma	Basal	IDC	2	14.42	LIVING	Negative	Negative	Negative	C8	48	ASIAN	Not Hispanic Or Latino	Female	T3	M0	N0
+TCGA-C8-A1HO-01	34.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	3	12.32	LIVING	Positive	Negative	Positive	C8	34	ASIAN	Not Hispanic Or Latino	Female	T3	M0	N3
+TCGA-C8-A27A-01	48.0	peri	Infiltrating Ductal Carcinoma	LumB	IDC	2	24.54	LIVING	Positive	Negative	Positive	C8	48	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A132-01	56.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	12.58	LIVING	Positive		Positive	C8	56	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A26W-01	58.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	12.52	LIVING	Positive	Equivocal	Positive	C8	58	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A8HQ-01	53.0	post	Mucinous Carcinoma	LumB	IMMC	2	12.48	LIVING	Positive	Negative	Positive	C8	53	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A1HG-01	50.0	pre	Infiltrating Ductal Carcinoma	LumB	IDC	2	11.33	LIVING	Positive	Negative	Positive	C8	50	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-C8-A12O-01	50.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	2	12.65	LIVING	Positive	Negative	Positive	C8	50	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0 (I-)
+TCGA-C8-A137-01	34.0	pre	Infiltrating Ductal Carcinoma	Her2	IDC	2	12.45	LIVING	Negative	Positive	Negative	C8	34	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A3M7-01	60.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	3	33.97	DECEASED	Negative	Negative	Negative	C8	60	ASIAN	Not Hispanic Or Latino	Female	T4B	M0	N0
+TCGA-C8-A8HP-01	59.0	post	Metaplastic Carcinoma	Her2	MBC	3	13.01	LIVING	Negative	Positive	Negative	C8	59	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N2
+TCGA-C8-A275-01	56.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	2	0.03	LIVING				C8	56	ASIAN	Not Hispanic Or Latino	Female	T1	M0	N1
+TCGA-C8-A26X-01	58.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	2	12.35	LIVING	Negative	Negative	Negative	C8	58	ASIAN	Not Hispanic Or Latino	Female	T1	M0	N1
+TCGA-C8-A12X-01	62.0	post	Mucinous Carcinoma	LumA	IMMC	2	12.65	LIVING	Positive	Negative	Positive	C8	62	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A1HJ-01	53.0	peri	Infiltrating Ductal Carcinoma	Basal	IDC	2	0.16	LIVING	Negative	Negative	Negative	C8	53	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-C8-A12Z-01	45.0	peri	Infiltrating Ductal Carcinoma	Her2	IDC	2	12.55	LIVING	Negative	Positive	Negative	C8	45	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A26V-01	47.0	peri	Infiltrating Ductal Carcinoma	LumB	IDC	3	20.24	LIVING	Positive	Negative	Positive	C8	47	ASIAN	Not Hispanic Or Latino	Female	T3	M0	N2
+TCGA-C8-A1HM-01	74.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	12.32	LIVING	Positive	Negative	Positive	C8	74	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-C8-A138-01	54.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	3	12.48	LIVING	Positive	Equivocal	Negative	C8	54	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N2
+TCGA-C8-A12L-01	67.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	2	11.93	LIVING	Negative	Equivocal	Negative	C8	67	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0 (I-)
+TCGA-C8-A12N-01	58.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	11.76	LIVING	Positive	Negative	Positive	C8	58	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0 (I-)
+TCGA-C8-A3M8-01	68.0	post	Infiltrating Lobular Carcinoma	LumB	ILC	1	12.94	LIVING	Positive	Positive	Positive	C8	68	ASIAN	Not Hispanic Or Latino	Female	T1C	M0	N0
+TCGA-C8-A135-01	64.0	post	Infiltrating Ductal Carcinoma	Her2	IDC	2	12.91	LIVING	Negative	Positive	Negative	C8	64	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A12T-01	43.0	pre	Infiltrating Ductal Carcinoma	Her2	IDC	2	0.0	LIVING	Positive	Positive	Positive	C8	43	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-C8-A12U-01	46.0	pre	Infiltrating Ductal Carcinoma	LumB	IDC	2	12.65	LIVING	Positive	Negative	Positive	C8	46	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-C8-A26Z-01	59.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	15.44	LIVING	Positive	Negative	Positive	C8	59	ASIAN	Not Hispanic Or Latino	Female	T2	M0	N0

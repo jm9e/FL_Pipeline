@@ -1,0 +1,20 @@
+	diagnosis_age	menopause_status	hist_subt	mol_subt	oncotree	stage	OS	OS_status	ER	HER2	PR	cohort	age	race	is_hispanic_or_latino	sex	t_stage	m_stage	n_stage
+TCGA-LL-A442-01	56.0	post	Infiltrating Ductal Carcinoma		IDC	2	29.2	LIVING	Positive	Equivocal	Positive	LL	56	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	MX	N0 (I-)
+TCGA-LL-A73Z-01	55.0	post	Infiltrating Ductal Carcinoma	Normal	IDC	4	7.46	DECEASED	Positive	Equivocal	Positive	LL	55	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T1C	M1	NX
+TCGA-LL-A73Y-01	67.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	1	15.67	LIVING	Negative	Negative	Negative	LL	67	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T1C	MX	N0
+TCGA-LL-A8F5-01	61.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	19.58	LIVING	Positive	Negative	Negative	LL	61	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	MX	N0 (I-)
+TCGA-LL-A7SZ-01	49.0	pre	Infiltrating Ductal Carcinoma	LumA	IDC	2	19.51	LIVING	Positive	Negative	Positive	LL	49	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	MX	N1A
+TCGA-LL-A440-01	61.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	1	24.93	LIVING	Positive	Equivocal	Positive	LL	61	WHITE	Not Hispanic Or Latino	Female	T1C	MX	N0 (I-)
+TCGA-LL-A7T0-01	70.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	12.35	LIVING	Positive	Positive	Positive	LL	70	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-LL-A6FP-01	90.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	2	22.24	LIVING	Positive	Equivocal	Positive	LL	90	WHITE	Not Hispanic Or Latino	Female	T2	MX	NX
+TCGA-LL-A740-01	61.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	14.49	LIVING	Negative	Equivocal	Negative	LL	61	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T1C	MX	N0 (I-)
+TCGA-LL-A50Y-01	84.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	2	25.03	LIVING	Positive	Equivocal	Positive	LL	84	WHITE	Not Hispanic Or Latino	Female	T2	MX	N0
+TCGA-LL-A6FQ-01	77.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	3	2.63	LIVING	Positive	Negative	Positive	LL	77	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	MX	N2A
+TCGA-LL-A5YM-01	88.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	3	15.31	LIVING	Positive	Equivocal	Positive	LL	88	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T4B	M0	NX
+TCGA-LL-A441-01	62.0	post	Infiltrating Ductal Carcinoma		IDC	1	32.72	LIVING	Negative	Negative	Negative	LL	62	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T1C	MX	N0
+TCGA-LL-A5YN-01	46.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	14.68	LIVING	Positive	Equivocal	Positive	LL	46	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	M0	N0 (I-)
+TCGA-LL-A6FR-01	50.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	16.06	LIVING	Negative	Equivocal	Positive	LL	50	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	MX	N0 (I-)
+TCGA-LL-A5YL-01	64.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	2	17.05	LIVING	Positive	Positive	Negative	LL	64	WHITE	Not Hispanic Or Latino	Female	T2	MX	N1A
+TCGA-LL-A5YO-01	50.0	pre	Infiltrating Ductal Carcinoma	Her2	IDC	1	14.45	LIVING	Negative	Negative	Negative	LL	50	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T1B	MX	N0
+TCGA-LL-A5YP-01	49.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	14.78	LIVING	Positive	Negative	Negative	LL	49	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-LL-A9Q3-01	69.0	post	Infiltrating Lobular Carcinoma	LumA	ILC	3	17.48	LIVING	Positive	Positive	Positive	LL	69	WHITE	Not Hispanic Or Latino	Female	T3	MX	N3A

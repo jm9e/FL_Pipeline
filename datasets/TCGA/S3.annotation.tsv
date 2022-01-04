@@ -1,0 +1,11 @@
+	diagnosis_age	menopause_status	hist_subt	mol_subt	oncotree	stage	OS	OS_status	ER	HER2	PR	cohort	age	race	is_hispanic_or_latino	sex	t_stage	m_stage	n_stage
+TCGA-S3-AA0Z-01	63.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	20.66	LIVING	Positive	Equivocal	Positive	S3	63	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	M0	N1A
+TCGA-S3-A6ZH-01	29.0		Infiltrating Ductal Carcinoma	LumA	IDC	3	21.06	LIVING	Positive	Equivocal	Positive	S3	29	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T3	MX	N3A
+TCGA-S3-A6ZF-01	64.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	18.79	LIVING	Positive	Equivocal	Positive	S3	64	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-S3-AA11-01	67.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	2	13.83	LIVING	Positive	Equivocal	Positive	S3	67	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-S3-AA14-01	47.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	1	17.38	LIVING	Positive	Positive	Positive	S3	47	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T1	CM0 (I+)	N0 (I+)
+TCGA-S3-AA15-01	51.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	17.25	LIVING	Negative	Negative	Negative	S3	51	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	CM0 (I+)	N1A
+TCGA-S3-AA10-01	65.0	post	Infiltrating Ductal Carcinoma	Basal	IDC	2	19.25	LIVING	Negative	Negative	Negative	S3	65	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	M0	N0
+TCGA-S3-A6ZG-01	71.0	post	Mixed Histology (NOS)	LumA	BRCNOS	2	18.46	LIVING	Positive	Negative	Positive	S3	71	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	M0	N1
+TCGA-S3-AA17-01	64.0	post	Infiltrating Ductal Carcinoma	LumB	IDC	2	13.93	LIVING	Positive	Equivocal	Positive	S3	64	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T2	CM0 (I+)	N1MI
+TCGA-S3-AA12-01	82.0	post	Infiltrating Ductal Carcinoma	LumA	IDC	3	18.86	LIVING	Positive	Negative	Negative	S3	82	BLACK OR AFRICAN AMERICAN	Not Hispanic Or Latino	Female	T3	MX	N1A
