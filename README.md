@@ -3,9 +3,11 @@ Pipeline for analyzing federated classifiers regarding no. of locations, class a
 
 ## Folder structure
 
-`/datasets` contains prepared datasets that have been used to test various imbalances.
+`/datasets` contains prepared datasets used for the analyses.
 
-`/analysis` contains the code used for the analyses.
+`/pipeline` contains the code for the federated pipeline.
+
+`/analysis` contains the code for the analyses, using the pipeline module.
 
 `/plots` contains the plots showing the results of the analyses.
 
