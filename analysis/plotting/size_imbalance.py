@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 if __name__ == '__main__':
-    formats = ['png', 'pdf', 'svg']
+    formats = ['png', 'pdf', 'svg', 'eps']
 
     metrics = [
         {'gmetric': 'groc', 'lmetric': 'lroc', 'metric': 'AUC'},
@@ -29,7 +29,7 @@ if __name__ == '__main__':
             file2 = ds['file2']
             name = ds['name']
 
-            title = f'{name} | Size Imbalance'
+            title = f'{name} | Unbalancedness'
 
             stats = {}
             # xs = []
@@ -121,7 +121,7 @@ if __name__ == '__main__':
 
             ax = fig.add_subplot()
 
-            ax.hlines(y_g1auc_median, 0, len(xs) - 1, label='Centralized', linestyles='dotted', colors=[regular_col])
+            ax.hlines(y_g1auc_median, 0, len(xs) - 1, label='Centralized Dataset', colors=[regular_col])
 
             # middle = len(xs) // 2
             # ax.hlines(y_gauc_q25[middle], 0, len(xs) - 1, linestyles='dotted', colors=[regular_col])
@@ -151,12 +151,12 @@ if __name__ == '__main__':
             # ax.plot(xs, y_wgauc_q75, '_', color=globalw_col, alpha=alpha_q)
 
             # ax.plot(xs, y_bauc_q25, '_', color=big_col, alpha=alpha_q)
-            ax.plot(xs, y_bauc_median, label='Big Model', color=big_col, alpha=alpha_mean)
+            ax.plot(xs, y_bauc_median, label='Big Dataset', color=big_col, alpha=alpha_mean)
             ax.plot(xs, y_bauc_median, '.', color=big_col, alpha=alpha_mean)
             # ax.plot(xs, y_bauc_q75, '_', color=big_col, alpha=alpha_q)
 
             # ax.plot(xs, y_sauc_q25, '_', color=small_col, alpha=alpha_q)
-            ax.plot(xs, y_sauc_median, label='Small Model', color=small_col, alpha=alpha_mean)
+            ax.plot(xs, y_sauc_median, label='Small Dataset', color=small_col, alpha=alpha_mean)
             ax.plot(xs, y_sauc_median, '.', color=small_col, alpha=alpha_mean)
             # ax.plot(xs, y_sauc_q75, '_', color=small_col, alpha=alpha_q)
 
@@ -165,9 +165,11 @@ if __name__ == '__main__':
             # plt.yticks([0.5, 0.6, 0.7, 0.8, 0.9, 1.0])
             plt.xticks(xs, labels)
             plt.ylabel(metric)
-            plt.xlabel('Unbalancedness')
+            plt.xlabel('Share of Data for Smaller Dataset')
             plt.legend()
             plt.title(title)
 
             for format in formats:
                 plt.savefig(f'../../results/plots/{name}_{metric}_size_imbalance.{format}', format=format, bbox_inches='tight')
+
+            plt.show()

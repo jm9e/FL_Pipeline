@@ -4,7 +4,7 @@ import json
 import matplotlib.pyplot as plt
 
 if __name__ == '__main__':
-    formats = ['png', 'pdf', 'svg']
+    formats = ['png', 'pdf', 'svg', 'eps']
 
     metrics = [
         {'gmetric': 'groc', 'lmetric': 'lroc', 'metric': 'AUC'},
@@ -55,12 +55,13 @@ if __name__ == '__main__':
         classical = stats['1,0'][gmetric]
         weighted = stats['19,1'][gmetric]
         unweighted = stats['19,0'][gmetric]
+        local = stats['19,1'][lmetric]
 
         fig, ax = plt.subplots()
 
-        ax.boxplot([classical, weighted, unweighted])
+        ax.boxplot([classical, weighted, unweighted, local])
 
-        plt.xticks([1, 2, 3], ['Centralized', 'Weighted', 'Unweighted'])
+        plt.xticks([1, 2, 3, 4], ['Centralized', 'Weighted', 'Unweighted', 'Local'])
         plt.ylabel(metric)
         # plt.legend()
         plt.title(title)

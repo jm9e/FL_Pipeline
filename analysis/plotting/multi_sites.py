@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 if __name__ == '__main__':
-    formats = ['png', 'pdf', 'svg']
+    formats = ['png', 'pdf', 'svg', 'eps']
 
     metrics = [
         {'gmetric': 'groc', 'lmetric': 'lroc', 'metric': 'AUC'},

@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 if __name__ == '__main__':
-    formats = ['png', 'pdf', 'svg']
+    formats = ['png', 'pdf', 'svg', 'eps']
 
     metrics = [
         {'gmetric': 'groc', 'lmetric': 'lroc', 'metric': 'AUC'},
@@ -28,7 +28,7 @@ if __name__ == '__main__':
             file = ds['file']
             name = ds['name']
 
-            title = f'{name} | Class Imbalance'
+            title = f'{name} | Phenotype Imbalance'
 
             stats = {}
             xs = ['0.1', '0.2', '0.3', '0.4', '0.5', '0.6', '0.7', '0.8', '0.9']
@@ -96,7 +96,7 @@ if __name__ == '__main__':
             plt.yticks([0.5, 0.6, 0.7, 0.8, 0.9, 1.0])
             plt.xticks(xs, labels)
             plt.ylabel(metric)
-            plt.xlabel('Phenotype Imbalance')
+            plt.xlabel('Percentage of Positive Labels')
             plt.legend()
             plt.title(title)
 
