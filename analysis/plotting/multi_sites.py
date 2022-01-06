@@ -84,7 +84,7 @@ if __name__ == '__main__':
             ax = fig.add_subplot()
 
             ax.hlines(y_gauc_q25[0], 1, 100, linestyles='dotted', colors=[regular_col])
-            ax.hlines(y_gauc_median[0], 1, 100, label='Classical', colors=[regular_col])
+            ax.hlines(y_gauc_median[0], 1, 100, label='Centralized', colors=[regular_col])
             ax.hlines(y_gauc_q75[0], 1, 100, linestyles='dotted', colors=[regular_col])
 
             ax.fill_between(xs, y_gauc_q25, y_gauc_median, color=global_col, alpha=alpha_area)
@@ -103,7 +103,7 @@ if __name__ == '__main__':
 
             plt.yticks([0.5, 0.6, 0.7, 0.8, 0.9, 1.0])
             plt.xscale('log')
-            plt.xticks([1, 2, 5, 10, 20, 50, 100], ['Classical', '2', '5', '10', '20', '50', '100'])
+            plt.xticks([1, 2, 5, 10, 20, 50, 100], ['Centralized', '2', '5', '10', '20', '50', '100'])
             plt.ylabel(metric)
             plt.xlabel('Number of Sites')
             plt.legend()

@@ -101,7 +101,7 @@ if __name__ == '__main__':
 
         plt.yticks([0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0])
         plt.xscale('log')
-        plt.xticks([1, 2, 5, 10, 20, 50, 100], ['Classical', '2', '5', '10', '20', '50', '100'])
+        plt.xticks([1, 2, 5, 10, 20, 50, 100], ['Centralized', '2', '5', '10', '20', '50', '100'])
         plt.ylabel(metric)
         plt.xlabel('Number of Local Models')
         plt.legend()

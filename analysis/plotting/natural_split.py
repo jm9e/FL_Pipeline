@@ -77,7 +77,7 @@ if __name__ == '__main__':
     plt.plot(xs, y_lauc_q75, '_', color=local_col, alpha=alpha_q)
 
     plt.yticks([0.6, 0.7, 0.8, 0.9, 1.0])
-    plt.xticks(xs, ['Classical', '19 (weighted)', '19 (unweighted)'])
+    plt.xticks(xs, ['Centralized', '19 (weighted)', '19 (unweighted)'])
     plt.ylabel(metric)
     plt.legend(loc='lower left')
     plt.title(title)

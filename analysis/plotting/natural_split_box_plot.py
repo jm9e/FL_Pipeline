@@ -60,7 +60,7 @@ if __name__ == '__main__':
 
         ax.boxplot([classical, weighted, unweighted])
 
-        plt.xticks([1, 2, 3], ['Classical', 'Weighted', 'Unweighted'])
+        plt.xticks([1, 2, 3], ['Centralized', 'Weighted', 'Unweighted'])
         plt.ylabel(metric)
         # plt.legend()
         plt.title(title)

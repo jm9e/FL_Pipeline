@@ -121,7 +121,7 @@ if __name__ == '__main__':
 
             ax = fig.add_subplot()
 
-            ax.hlines(y_g1auc_median, 0, len(xs) - 1, label='Classical', linestyles='dotted', colors=[regular_col])
+            ax.hlines(y_g1auc_median, 0, len(xs) - 1, label='Centralized', linestyles='dotted', colors=[regular_col])
 
             # middle = len(xs) // 2
             # ax.hlines(y_gauc_q25[middle], 0, len(xs) - 1, linestyles='dotted', colors=[regular_col])
