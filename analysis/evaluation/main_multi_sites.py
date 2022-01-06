@@ -3,7 +3,7 @@ from datetime import datetime
 from pipeline.ensemble import EnsembleStep
 from pipeline.evaluation import EvaluateStep, AnalysisStep
 from pipeline.pipeline import Pipeline
-from pipeline.preprocessing import DataStep, RepeatStep, SitesSplitStep, PrepareStep, BalanceStep
+from pipeline.preprocessing import DataStep, RepeatStep, SitesSplitStep, PrepareStep
 from pipeline.result import WriteResultsStep
 from pipeline.training import TrainRandomForestStep
 from pipeline.util import PrintStep
@@ -69,7 +69,7 @@ if __name__ == "__main__":
         p = Pipeline()
 
         # Specify dataset
-        p.add_step(DataStep(f'data/{dataset_file}', index))
+        p.add_step(DataStep(f'../../datasets/{dataset_file}', index))
 
         # Repeat this dataset to increase robustness
         p.add_step(RepeatStep(1, 'done'))
@@ -86,12 +86,12 @@ if __name__ == "__main__":
         # p.add_step(SitesSplitStep([1, 2, 5, 10, 20, 50, 100], lambda sites: 100 // sites, 0.1))
 
         if total:
-            name = f'{dataset}_multi_sites_{estimators}_total'
+            name = f'../../results/evaluation/{dataset}_multi_sites_{estimators}_total'
             p.add_step(SitesSplitStep(sites, lambda _: estimators, 0.1))
             p.add_step(TrainRandomForestStep(lambda sites: estimators // sites))
 
         else:
-            name = f'{dataset}_multi_sites_{estimators}_each'
+            name = f'../../results/evaluation/{dataset}_multi_sites_{estimators}_each'
             p.add_step(SitesSplitStep(sites, lambda sites: estimators // sites, 0.1))
             p.add_step(TrainRandomForestStep(lambda sites: estimators))
 

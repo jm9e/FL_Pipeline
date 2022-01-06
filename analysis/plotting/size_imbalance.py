@@ -13,10 +13,10 @@ if __name__ == '__main__':
     ]
 
     datasets = [
-        {'name': 'HCC', 'file': '../hcc_size_imbalance_100.csv', 'file2': '../hcc_multi_sites_100_each.csv'},
-        {'name': 'ILPD', 'file': '../ilpd_size_imbalance_100.csv', 'file2': '../ilpd_multi_sites_100_each.csv'},
-        {'name': 'LTD', 'file': '../tumor_size_imbalance_100.csv', 'file2': '../tumor_multi_sites_100_each.csv'},
-        {'name': 'BCD', 'file': '../diag_size_imbalance_100.csv', 'file2': '../diag_multi_sites_100_each.csv'},
+        {'name': 'HCC', 'file': '../../results/evaluation/hcc_size_imbalance_100.csv', 'file2': '../../results/evaluation/hcc_multi_sites_100_each.csv'},
+        {'name': 'ILPD', 'file': '../../results/evaluation/ilpd_size_imbalance_100.csv', 'file2': '../../results/evaluation/ilpd_multi_sites_100_each.csv'},
+        {'name': 'LTD', 'file': '../../results/evaluation/tumor_size_imbalance_100.csv', 'file2': '../../results/evaluation/tumor_multi_sites_100_each.csv'},
+        {'name': 'BCD', 'file': '../../results/evaluation/diag_size_imbalance_100.csv', 'file2': '../../results/evaluation/diag_multi_sites_100_each.csv'},
     ]
 
     for metric in metrics:
@@ -165,11 +165,9 @@ if __name__ == '__main__':
             # plt.yticks([0.5, 0.6, 0.7, 0.8, 0.9, 1.0])
             plt.xticks(xs, labels)
             plt.ylabel(metric)
-            plt.xlabel('Share of Data for Smaller Model')
+            plt.xlabel('Unbalancedness')
             plt.legend()
             plt.title(title)
 
             for format in formats:
-                plt.savefig(f'../plots/{name}_{metric}_size_imbalance.{format}', format=format, bbox_inches='tight')
-
-            plt.show()
+                plt.savefig(f'../../results/plots/{name}_{metric}_size_imbalance.{format}', format=format, bbox_inches='tight')

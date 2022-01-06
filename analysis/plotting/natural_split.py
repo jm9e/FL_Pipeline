@@ -12,7 +12,7 @@ if __name__ == '__main__':
     metric = 'AUC'
 
     title = 'BCTCGA | Weighted and Unweighted Models'
-    file = '../tcga_100_each.csv'
+    file = '../../results/evaluation/tcga_100_each.csv'
 
     stats = {}
     # xs = []
@@ -81,7 +81,7 @@ if __name__ == '__main__':
     plt.ylabel(metric)
     plt.legend(loc='lower left')
     plt.title(title)
-    plt.show()
+    # plt.show()
 
     regular_col = '#a0a0a0'
     global_col = '#424ef5'
@@ -121,4 +121,4 @@ if __name__ == '__main__':
     plt.title(title)
 
     for format in formats:
-        plt.savefig(f'../plots/BCTCGA_{metric}_sites.{format}', format=format, bbox_inches='tight')
+        plt.savefig(f'../../results/plots/BCTCGA_{metric}_sites.{format}', format=format, bbox_inches='tight')

@@ -3,8 +3,7 @@ from datetime import datetime
 from pipeline.ensemble import EnsembleStep
 from pipeline.evaluation import EvaluateStep, AnalysisStep
 from pipeline.pipeline import Pipeline
-from pipeline.preprocessing import DataStep, RepeatStep, SitesSplitStep, PrepareStep, BalanceStep, \
-    ClassImbalanceSplitStep, SizeImbalanceSplitStep
+from pipeline.preprocessing import DataStep, RepeatStep, PrepareStep, SizeImbalanceSplitStep
 from pipeline.result import WriteResultsStep
 from pipeline.training import TrainRandomForestStep
 from pipeline.util import PrintStep
@@ -63,7 +62,7 @@ if __name__ == "__main__":
         p = Pipeline()
 
         # Specify dataset
-        p.add_step(DataStep(f'data/{dataset_file}', index))
+        p.add_step(DataStep(f'../../datasets/{dataset_file}', index))
 
         # Repeat this dataset to increase robustness
         p.add_step(RepeatStep(1, 'done'))
@@ -79,7 +78,7 @@ if __name__ == "__main__":
         # p.add_step(SitesSplitStep([1, 2, 3, 5, 10, 20, 30, 50, 100], 0.1))
         # p.add_step(SitesSplitStep([1, 2, 5, 10, 20, 50, 100], lambda sites: 100 // sites, 0.1))
 
-        name = f'{dataset}_size_imbalance_{estimators}'
+        name = f'../../results/evaluation/{dataset}_size_imbalance_{estimators}'
         p.add_step(SizeImbalanceSplitStep(imbalances, weighted, 0.1))
         p.add_step(TrainRandomForestStep(lambda _: estimators))
 

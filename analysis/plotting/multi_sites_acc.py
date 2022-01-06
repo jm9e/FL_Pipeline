@@ -12,10 +12,10 @@ if __name__ == '__main__':
     metric = 'ACC'
 
     datasets = [
-        {'name': 'HCC', 'file': '../hcc_multi_sites_100_each.csv'},
-        {'name': 'ILPD', 'file': '../ilpd_multi_sites_100_each.csv'},
-        {'name': 'LTD', 'file': '../tumor_multi_sites_100_each.csv'},
-        {'name': 'BCD', 'file': '../diag_multi_sites_100_each.csv'},
+        {'name': 'HCC', 'file': '../../results/evaluation/hcc_multi_sites_100_each.csv'},
+        {'name': 'ILPD', 'file': '../../results/evaluation/ilpd_multi_sites_100_each.csv'},
+        {'name': 'LTD', 'file': '../../results/evaluation/tumor_multi_sites_100_each.csv'},
+        {'name': 'BCD', 'file': '../../results/evaluation/diag_multi_sites_100_each.csv'},
     ]
 
     for ds in datasets:
@@ -108,6 +108,4 @@ if __name__ == '__main__':
         plt.title(title)
 
         for format in formats:
-            plt.savefig(f'../plots/{name}_{metric}_sites.{format}', format=format, bbox_inches='tight')
-
-        plt.show()
+            plt.savefig(f'../../results/plots/{name}_{metric}_sites.{format}', format=format, bbox_inches='tight')

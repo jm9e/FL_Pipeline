@@ -2,7 +2,6 @@ import csv
 import json
 
 import matplotlib.pyplot as plt
-import numpy as np
 
 if __name__ == '__main__':
     formats = ['png', 'pdf', 'svg']
@@ -18,7 +17,7 @@ if __name__ == '__main__':
         metric = metric['metric']
 
         title = 'BCTCGA | Weighted and Unweighted Models'
-        file = '../tcga_100_each.csv'
+        file = '../../results/evaluation/tcga_100_each.csv'
 
         stats = {}
         # xs = []
@@ -67,6 +66,4 @@ if __name__ == '__main__':
         plt.title(title)
 
         for format in formats:
-            plt.savefig(f'../plots/BCTCGA_{metric}_sites.{format}', format=format, bbox_inches='tight')
-
-        plt.show()
+            plt.savefig(f'../../results/plots/BCTCGA_{metric}_sites.{format}', format=format, bbox_inches='tight')

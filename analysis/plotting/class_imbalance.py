@@ -13,10 +13,10 @@ if __name__ == '__main__':
     ]
 
     datasets = [
-        {'name': 'HCC', 'file': '../hcc_class_imbalance_100_each.csv'},
-        {'name': 'ILPD', 'file': '../ilpd_class_imbalance_100_each.csv'},
-        {'name': 'LTD', 'file': '../tumor_class_imbalance_100_each.csv'},
-        {'name': 'BCD', 'file': '../diag_class_imbalance_100_each.csv'},
+        {'name': 'HCC', 'file': '../../results/evaluation/hcc_class_imbalance_100_each.csv'},
+        {'name': 'ILPD', 'file': '../../results/evaluation/ilpd_class_imbalance_100_each.csv'},
+        {'name': 'LTD', 'file': '../../results/evaluation/tumor_class_imbalance_100_each.csv'},
+        {'name': 'BCD', 'file': '../../results/evaluation/diag_class_imbalance_100_each.csv'},
     ]
 
     for metric in metrics:
@@ -96,11 +96,9 @@ if __name__ == '__main__':
             plt.yticks([0.5, 0.6, 0.7, 0.8, 0.9, 1.0])
             plt.xticks(xs, labels)
             plt.ylabel(metric)
-            plt.xlabel('Percentage of Positive Labels')
+            plt.xlabel('Phenotype Imbalance')
             plt.legend()
             plt.title(title)
 
             for format in formats:
-                plt.savefig(f'../plots/{name}_{metric}_class_imbalance.{format}', format=format, bbox_inches='tight')
-
-            plt.show()
+                plt.savefig(f'../../results/plots/{name}_{metric}_class_imbalance.{format}', format=format, bbox_inches='tight')

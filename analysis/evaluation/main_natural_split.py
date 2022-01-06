@@ -34,7 +34,7 @@ if __name__ == "__main__":
         p = Pipeline()
 
         # Specify dataset
-        p.add_step(DataStep('data/tcga.csv', index_column='patient'))
+        p.add_step(DataStep('../../datasets/tcga.csv', index_column='patient'))
 
         # Get classes
         p.add_step(PrepareStep('mol_subt'))
@@ -52,7 +52,7 @@ if __name__ == "__main__":
         p.add_step(EvaluateStep())
 
         # Calculate values for further analysis
-        p.add_step(AnalysisStep(f'tcga_{estimators}_each', pr_samples=10))
+        p.add_step(AnalysisStep(f'../../results/evaluation/tcga_{estimators}_each', pr_samples=10))
 
         p.add_step(PrintStep(['meta'], data=True))
         p.add_step(PrintStep(['analysis'], data=False))
